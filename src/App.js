@@ -1,7 +1,9 @@
+import Gameboard from "./Components/Gameboard";
+
 function App() {
   return (
     <div>
-      <p>Test</p>
+      <Gameboard />
     </div>
   );
 }
